@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'agencyfbbold';
+    src: url('agencyfb-bold-webfont.eot');
+    src: url('agencyfb-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('agencyfb-bold-webfont.woff2') format('woff2'),
+         url('agencyfb-bold-webfont.woff') format('woff'),
+         url('agencyfb-bold-webfont.ttf') format('truetype'),
+         url('agencyfb-bold-webfont.svg#agencyfbbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+#login {
+margin: 50px auto;
+width: 300px;
+}
+
+.btn-round {
+background-color: #5a5656;
+border-radius: 50%;
+-moz-border-radius: 50%;
+-webkit-border-radius: 50%;
+color: #f4f4f4;
+display: block;
+font-size: 12px;
+height: 50px;
+line-height: 50px;
+margin: 30px 125px;
+text-align: center;
+text-transform: uppercase;
+width: 50px;
+}
+.facebook-before {
+background-color: #0064ab;
+border-radius: 3px 0px 0px 3px;
+-moz-border-radius: 3px 0px 0px 3px;
+-webkit-border-radius: 3px 0px 0px 3px;
+color: #f4f4f4;
+display: block;
+float: left;
+height: 50px;
+line-height: 50px;
+text-align: center;
+width: 50px;
+}
+.facebook {
+background-color: #0079ce;
+border: none;
+border-radius: 0px 3px 3px 0px;
+-moz-border-radius: 0px 3px 3px 0px;
+-webkit-border-radius: 0px 3px 3px 0px;
+color: #f4f4f4;
+cursor: pointer;
+height: 50px;
+text-transform: uppercase;
+width: 250px;
+}
+.twitter-before {
+background-color: #189bcb;
+border-radius: 3px 0px 0px 3px;
+-moz-border-radius: 3px 0px 0px 3px;
+-webkit-border-radius: 3px 0px 0px 3px;
+color: #f4f4f4;
+display: block;
+float: left;
+height: 50px;
+line-height: 50px;
+text-align: center;
+width: 50px;
+}
+.twitter {
+background-color: #FE2E2E;
+border: none;
+border-radius: 0px 3px 3px 0px;
+-moz-border-radius: 0px 3px 3px 0px;
+-webkit-border-radius: 0px 3px 3px 0px;
+color: #f4f4f4;
+cursor: pointer;
+height: 50px;
+text-transform: uppercase;
+width: 250px;
+}
